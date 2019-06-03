@@ -127,6 +127,8 @@ class LinkedList {
 
 }
 
+
+
 // let hit = new LinkedList('one');
 //  let refNodee = hit.addElemToLast('two');
 //   hit.print();
